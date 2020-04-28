@@ -1,2 +1,2 @@
-def request_eac_word
+def request_eac_word(str)
 end
