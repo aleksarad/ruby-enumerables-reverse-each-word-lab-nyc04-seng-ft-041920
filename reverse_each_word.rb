@@ -1,3 +1,5 @@
+#each 
+
 def reverse_each_word(str)
   str_arr = str.split(/ /)
   new_arr = []
@@ -7,7 +9,7 @@ def reverse_each_word(str)
   p new_arr.join(" ")
 end
 
-
+#collect
 
 def reverse_each_word(str)
   str_arr = str.split(/ /)
