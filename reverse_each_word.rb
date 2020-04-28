@@ -4,6 +4,7 @@ def reverse_each_word(str)
   str_arr.each do |item|
     new_arr.push(item.reverse)
   end
+  return new_arr
 end
 
 reverse_each_word("hey sup")
