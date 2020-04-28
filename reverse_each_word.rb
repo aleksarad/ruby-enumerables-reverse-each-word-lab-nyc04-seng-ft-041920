@@ -3,4 +3,4 @@ def reverse_each_word(str)
   return str_arr
 end
 
-request_eac_word
+reverse_each_word("Hey how are ya")
