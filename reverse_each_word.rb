@@ -5,4 +5,4 @@ def reverse_each_word(str)
   end
 end
 
-reverse_each_word("hey ")
+reverse_each_word("hey")
